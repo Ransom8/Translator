@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Traductor</string>
+    <string name="english">HOLA ARI</string>
+    <string name="french">BONJOUR ARI</string>
+    <string name="spanish">HELLO ARI</string>
+    <string name="english_language">Español</string>
+    <string name="french_language">Francés</string>
+    <string name="spanish_language">Inglés</string>
+    <string name="wave_view">ver</string>
+</resources>

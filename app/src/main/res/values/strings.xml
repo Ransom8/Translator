@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="english">HELLO ARI</string>
+    <string name="spanish">HOLA ARI</string>
+    <string name="french">BONJOUR ARI</string>
+    <string name="english_language">English</string>
+    <string name="french_language">French</string>
+    <string name="spanish_language">Spanish</string>
+    <string name="wave_view">view</string>
+</resources>
